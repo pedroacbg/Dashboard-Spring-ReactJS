@@ -1,8 +1,8 @@
 INSERT INTO tb_sellers(name) VALUES ('Plínio');
-INSERT INTO tb_sellers(name) VALUES ('Hugo');
-INSERT INTO tb_sellers(name) VALUES ('Roda');
+INSERT INTO tb_sellers(name) VALUES ('Hugo Abaporu');
+INSERT INTO tb_sellers(name) VALUES ('Chico Sousa');
 INSERT INTO tb_sellers(name) VALUES ('Togo');
-INSERT INTO tb_sellers(name) VALUES ('Rogério');
+INSERT INTO tb_sellers(name) VALUES ('Pedro Cardoso');
 
 INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (5,83,66,5501.0,'2021-04-01');
 INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (5,113,78,8290.0,'2021-03-31');
